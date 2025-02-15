@@ -8,12 +8,10 @@ imulation is not where I want it to be.
 
 ## A quick rundown on what the data has shown me so far:
 
-Zen beats basic by around 2.3% on average when doing 1000 trials with 5000 iterations (hands) played each
+ - Zen beats basic by around 2.3% on average when doing 1000 trials with 5000 iterations (hands) played each
 
-HiLo does aroud 1.9 - 2.1%
+ - HiLo does aroud 1.9 - 2.1%
 
-However my data shows heads up, HiLo outperforms Zen. I am not sure why this is, but I will try and find out!
-
-
+ - However my data shows heads up, HiLo outperforms Zen. I am not sure why this is, but I will try and find out!
 
 For any inquiries reach me at pranshu_rao@berkeley.edu, thanks for reading!
