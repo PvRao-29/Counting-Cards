@@ -1,10 +1,8 @@
 # Zen Count Blackjack Simulation
 
-A Python simulation comparing the Zen Count card counting strategy to basic strategy in Blackjack. 
-This project demonstrates the effectiveness of the Zen Count system in gaining an edge over the casino.
+A Python simulation comparing the Zen Count card counting strategy to basic strategy in Blackjack. This project demonstrates the effectiveness of the Zen Count system in gaining an edge over the casino.
 
-I have now also added the HiLo counting strategy. Will sophisticate the simulations over time... for now the hl_v_zen s
-imulation is not where I want it to be.
+I have now also added the HiLo counting strategy. Will sophisticate the simulations over time... for now the hl_v_zen simulation is not where I want it to be.
 
 ## A quick rundown on what the data has shown me so far:
 
