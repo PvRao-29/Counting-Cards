@@ -1,0 +1,35 @@
+=== TRIAL 1 ===
+Hands played:   10000
+Net return:     +196
+Avg return/h:   +0.0196
+EV by True Count bucket:
+  true_count_of_0: +0.0196 over 10000 hands
+
+=== TRIAL 2 ===
+Hands played:   10000
+Net return:     +120
+Avg return/h:   +0.0120
+EV by True Count bucket:
+  true_count_of_0: +0.0120 over 10000 hands
+
+=== TRIAL 3 ===
+Hands played:   10000
+Net return:     +276
+Avg return/h:   +0.0276
+EV by True Count bucket:
+  true_count_of_0: +0.0276 over 10000 hands
+
+=== TRIAL 4 ===
+Hands played:   10000
+Net return:     +84
+Avg return/h:   +0.0084
+EV by True Count bucket:
+  true_count_of_0: +0.0084 over 10000 hands
+
+=== TRIAL 5 ===
+Hands played:   10000
+Net return:     -1
+Avg return/h:   -0.0001
+EV by True Count bucket:
+  true_count_of_0: -0.0001 over 10000 hands
+

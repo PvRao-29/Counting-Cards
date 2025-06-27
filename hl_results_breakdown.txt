@@ -1,0 +1,192 @@
+=== TRIAL 1 ===
+Hands played:   10000
+Net return:     +359
+Avg return/h:   +0.0359
+EV by True Count bucket:
+  true_count_of_1: +0.0127 over 1491 hands
+  true_count_of_0: +0.0376 over 2258 hands
+  true_count_of_-1: +0.0276 over 1557 hands
+  true_count_of_2: -0.0404 over 793 hands
+  true_count_of_3: +0.2303 over 469 hands
+  true_count_of_4: -0.0846 over 272 hands
+  true_count_of_-2: +0.0043 over 927 hands
+  true_count_of_-4: +0.0073 over 412 hands
+  true_count_of_-3: -0.0294 over 612 hands
+  true_count_of_6: -0.6692 over 130 hands
+  true_count_of_7: +0.9451 over 91 hands
+  true_count_of_-6: -0.0201 over 149 hands
+  true_count_of_-7: +0.0909 over 88 hands
+  true_count_of_-8: +0.1493 over 67 hands
+  true_count_of_-9: +0.2041 over 49 hands
+  true_count_of_-11: -0.1538 over 13 hands
+  true_count_of_-12: +0.2857 over 7 hands
+  true_count_of_-14: -0.5000 over 2 hands
+  true_count_of_-15: -0.5000 over 2 hands
+  true_count_of_-16: +1.0000 over 1 hands
+  true_count_of_5: +0.1481 over 189 hands
+  true_count_of_-5: +0.0422 over 237 hands
+  true_count_of_8: +2.1639 over 61 hands
+  true_count_of_9: +0.3488 over 43 hands
+  true_count_of_11: +0.4000 over 15 hands
+  true_count_of_12: +0.3000 over 10 hands
+  true_count_of_13: -5.5000 over 6 hands
+  true_count_of_16: -12.0000 over 1 hands
+  true_count_of_17: +16.0000 over 1 hands
+  true_count_of_15: -17.0000 over 1 hands
+  true_count_of_10: +0.0385 over 26 hands
+  true_count_of_-10: -0.1000 over 20 hands
+
+=== TRIAL 2 ===
+Hands played:   10000
+Net return:     +574
+Avg return/h:   +0.0574
+EV by True Count bucket:
+  true_count_of_0: +0.0512 over 2244 hands
+  true_count_of_-1: +0.0204 over 1516 hands
+  true_count_of_-2: +0.0097 over 824 hands
+  true_count_of_-3: -0.0270 over 482 hands
+  true_count_of_-4: +0.0825 over 315 hands
+  true_count_of_1: +0.1273 over 1555 hands
+  true_count_of_2: +0.0404 over 867 hands
+  true_count_of_5: -0.1031 over 223 hands
+  true_count_of_4: +0.2030 over 330 hands
+  true_count_of_3: +0.1477 over 562 hands
+  true_count_of_-5: -0.1442 over 208 hands
+  true_count_of_-7: -0.1875 over 96 hands
+  true_count_of_-6: +0.0190 over 158 hands
+  true_count_of_-9: +0.1017 over 59 hands
+  true_count_of_6: -0.1157 over 121 hands
+  true_count_of_7: +0.0000 over 66 hands
+  true_count_of_12: +2.8636 over 22 hands
+  true_count_of_11: +1.1071 over 28 hands
+  true_count_of_9: -0.1522 over 46 hands
+  true_count_of_10: +3.4483 over 29 hands
+  true_count_of_8: +0.3333 over 63 hands
+  true_count_of_-8: +0.2958 over 71 hands
+  true_count_of_-10: -0.0488 over 41 hands
+  true_count_of_-13: -0.2222 over 9 hands
+  true_count_of_13: -3.4000 over 10 hands
+  true_count_of_15: -0.1429 over 7 hands
+  true_count_of_21: -14.0000 over 1 hands
+  true_count_of_20: -21.0000 over 1 hands
+  true_count_of_18: -20.0000 over 1 hands
+  true_count_of_19: -18.0000 over 1 hands
+  true_count_of_17: -19.0000 over 1 hands
+  true_count_of_14: -1.0000 over 4 hands
+  true_count_of_-11: +0.2727 over 22 hands
+  true_count_of_-12: +0.1538 over 13 hands
+  true_count_of_-14: +0.0000 over 2 hands
+  true_count_of_-16: -1.0000 over 2 hands
+
+=== TRIAL 3 ===
+Hands played:   10000
+Net return:     +190
+Avg return/h:   +0.0190
+EV by True Count bucket:
+  true_count_of_0: +0.0881 over 2146 hands
+  true_count_of_-1: -0.0458 over 1703 hands
+  true_count_of_-2: -0.0011 over 946 hands
+  true_count_of_-3: -0.0234 over 684 hands
+  true_count_of_1: -0.0195 over 1279 hands
+  true_count_of_-4: -0.0265 over 453 hands
+  true_count_of_-6: +0.0415 over 193 hands
+  true_count_of_2: +0.0054 over 738 hands
+  true_count_of_3: -0.1114 over 422 hands
+  true_count_of_6: +0.4828 over 145 hands
+  true_count_of_7: -0.0125 over 80 hands
+  true_count_of_8: +0.6709 over 79 hands
+  true_count_of_-5: +0.0000 over 269 hands
+  true_count_of_4: -0.1405 over 299 hands
+  true_count_of_5: -0.4256 over 195 hands
+  true_count_of_9: -0.3250 over 40 hands
+  true_count_of_-8: +0.2174 over 69 hands
+  true_count_of_-7: +0.1636 over 110 hands
+  true_count_of_-10: -0.0588 over 17 hands
+  true_count_of_-9: +0.1351 over 37 hands
+  true_count_of_10: +1.8571 over 21 hands
+  true_count_of_11: +4.0588 over 17 hands
+  true_count_of_13: -5.5000 over 2 hands
+  true_count_of_14: -0.4000 over 5 hands
+  true_count_of_15: +0.5000 over 2 hands
+  true_count_of_12: +1.2500 over 12 hands
+  true_count_of_-11: -0.5455 over 11 hands
+  true_count_of_-13: -0.2500 over 8 hands
+  true_count_of_-14: +1.0000 over 3 hands
+  true_count_of_-12: +0.6667 over 9 hands
+  true_count_of_-15: +1.0000 over 2 hands
+  true_count_of_17: +5.3333 over 3 hands
+  true_count_of_16: +17.0000 over 1 hands
+
+=== TRIAL 4 ===
+Hands played:   10000
+Net return:     +101
+Avg return/h:   +0.0101
+EV by True Count bucket:
+  true_count_of_1: -0.0449 over 1402 hands
+  true_count_of_0: -0.0124 over 2253 hands
+  true_count_of_2: +0.0854 over 831 hands
+  true_count_of_-1: +0.0288 over 1630 hands
+  true_count_of_-2: -0.0054 over 928 hands
+  true_count_of_-3: +0.0121 over 578 hands
+  true_count_of_3: +0.3162 over 468 hands
+  true_count_of_-4: -0.0348 over 374 hands
+  true_count_of_-5: +0.0428 over 257 hands
+  true_count_of_5: +0.0729 over 192 hands
+  true_count_of_4: +0.0610 over 295 hands
+  true_count_of_-6: +0.0568 over 176 hands
+  true_count_of_-7: +0.1181 over 127 hands
+  true_count_of_-8: -0.1194 over 67 hands
+  true_count_of_-9: -0.2115 over 52 hands
+  true_count_of_-10: -0.2222 over 27 hands
+  true_count_of_-12: +0.5714 over 7 hands
+  true_count_of_7: -0.3906 over 64 hands
+  true_count_of_6: -0.0726 over 124 hands
+  true_count_of_8: -0.1429 over 49 hands
+  true_count_of_12: +2.6000 over 10 hands
+  true_count_of_10: -0.7500 over 20 hands
+  true_count_of_9: -3.5200 over 25 hands
+  true_count_of_11: -0.2500 over 12 hands
+  true_count_of_13: +2.7500 over 4 hands
+  true_count_of_-11: +0.0000 over 16 hands
+  true_count_of_-14: -0.3333 over 3 hands
+  true_count_of_-13: +0.4000 over 5 hands
+  true_count_of_-15: -0.6667 over 3 hands
+  true_count_of_-16: +1.0000 over 1 hands
+
+=== TRIAL 5 ===
+Hands played:   10000
+Net return:     +383
+Avg return/h:   +0.0383
+EV by True Count bucket:
+  true_count_of_1: +0.0195 over 1436 hands
+  true_count_of_0: +0.0081 over 2102 hands
+  true_count_of_-1: -0.0007 over 1453 hands
+  true_count_of_2: +0.0265 over 867 hands
+  true_count_of_3: +0.0986 over 629 hands
+  true_count_of_7: +0.7971 over 69 hands
+  true_count_of_6: +0.3953 over 172 hands
+  true_count_of_4: -0.2095 over 401 hands
+  true_count_of_8: +0.1250 over 64 hands
+  true_count_of_5: +0.3790 over 248 hands
+  true_count_of_-2: +0.0428 over 841 hands
+  true_count_of_-3: +0.1147 over 532 hands
+  true_count_of_-5: +0.0622 over 241 hands
+  true_count_of_-4: +0.1634 over 361 hands
+  true_count_of_-8: +0.1467 over 75 hands
+  true_count_of_-11: -0.1053 over 19 hands
+  true_count_of_-6: +0.0050 over 201 hands
+  true_count_of_-7: +0.0530 over 132 hands
+  true_count_of_-9: +0.0000 over 33 hands
+  true_count_of_-10: +0.0000 over 30 hands
+  true_count_of_-12: +0.4286 over 7 hands
+  true_count_of_-13: -0.4000 over 5 hands
+  true_count_of_10: -4.4545 over 22 hands
+  true_count_of_9: +0.5588 over 34 hands
+  true_count_of_11: -1.3571 over 14 hands
+  true_count_of_13: +0.6667 over 6 hands
+  true_count_of_-17: +1.0000 over 1 hands
+  true_count_of_12: +2.5000 over 2 hands
+  true_count_of_14: +13.0000 over 1 hands
+  true_count_of_-15: -1.0000 over 1 hands
+  true_count_of_-14: +0.0000 over 1 hands
+
