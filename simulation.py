@@ -56,7 +56,7 @@ def build_graph():
 
 if __name__ == "__main__":
     NUM_SHOES = 20000
-    OUTFILE = 'zen_results_by_shoe.csv'
+    OUTFILE = 'results/zen_results_by_shoe.csv'
 
     #txt:
     # with open(OUTFILE, "w") as f:
